@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png">
+  <img src="logo.png" width="220" alt="LodiMusic Logo">
 </p>
 
 <h1 align="center">🎵 LodiMusic Ultimate</h1>
