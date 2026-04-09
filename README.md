@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lodidev/lodidev/main/logo.png" width="200" alt="LodiMusic Logo">
+  <img src="logo.png">
 </p>
 
 <h1 align="center">🎵 LodiMusic Ultimate</h1>
